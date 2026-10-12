@@ -1,8 +1,9 @@
-## Download the practice pack
+## Download the FME Practice Pack
 
 Download the datasets and supporting files for the FME practice exercises.
 
-[**Download the FME Practice Pack (ZIP)**](./files.zip)
+[**Download the FME Practice Pack (ZIP)**](https://github.com/mvanenter/fme-practice-pack/raw/refs/heads/main/files.zip)
+
 
 # FME practice pack: five spatial data cleaning scenarios
 
